@@ -5,4 +5,8 @@ echo " please enter username:" # text entered here will be added as value to var
 read -s USERNAME # USERNAME is variable name here
 echo  "username entered : $USERNAME"
 
+echo "palese enter your password:"
+read -s PASSWORD
+
+
 
